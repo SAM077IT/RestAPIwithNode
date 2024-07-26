@@ -1,0 +1,32 @@
+{
+  "name": "restapiwithnode",
+  "version": "1.0.0",
+  "description": "Rest API development using Node and express js",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SAM077IT/RestAPIwithNode.git"
+  },
+  "keywords": [
+    "Rest",
+    "API",
+    "node",
+    "express"
+  ],
+  "author": "Samirul Islam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SAM077IT/RestAPIwithNode/issues"
+  },
+  "homepage": "https://github.com/SAM077IT/RestAPIwithNode#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
